@@ -57,7 +57,7 @@ public class StockWatcher implements EntryPoint {
 	  System.out.println("Last");
   }
   
-  private void pushConflict(){
+  private void pushSecondConflict(){
   	System.out.println("Creating conflict");
   }
   /**
