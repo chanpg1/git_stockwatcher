@@ -54,7 +54,7 @@ public class StockWatcher implements EntryPoint {
 	  System.out.println("Git is Awesome!");
 	  System.out.println("I don't Git it, second try");
 	  System.out.println("Thrice");
-	  System.out.println("Last line");
+	  System.out.println("Last");
   }
   
   /**
