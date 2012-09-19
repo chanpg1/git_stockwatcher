@@ -56,6 +56,7 @@ public class StockWatcher implements EntryPoint {
 	  System.out.println("Thrice");
 	  System.out.println("Last");
 	  System.out.println("Again");
+	  System.out.println("And again");
   }
   
   /**
